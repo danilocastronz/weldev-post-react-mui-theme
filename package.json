@@ -1,6 +1,9 @@
 {
   "name": "weldev-post-react-mui-theme",
-  "private": true,
+  "description": "Theming with React and MUI post.",
+  "author": {
+    "name": "Dan Castro"
+  },
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
